@@ -1,6 +1,6 @@
 # image-analysis
 
-Random Python tools for image analysis, mainly for fun.
+Random Python tools for image analysis, mainly for fun. Please note that while attribution is not required it would be appreciated if you find a use for this.
 
 [Analysers](#analysers)
 
